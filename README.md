@@ -1,4 +1,6 @@
-# vue3-experience
+```
+利用vue3.0的新特性，简单编写一个form表单的验证
+```
 
 ## Project setup
 ```
